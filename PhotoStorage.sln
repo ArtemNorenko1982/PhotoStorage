@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage.Application", "PhotoStorage.Application\PhotoStorage.Application.csproj", "{F44A0B77-B468-4BC8-B9B5-51E258C56170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage.Services", "PhotoStorage.Services\PhotoStorage.Services.csproj", "{CBC7CDB3-23F3-437C-8A9C-A846BE73D4AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage.Contracts", "PhotoStorage.Contracts\PhotoStorage.Contracts.csproj", "{ED1EC249-65DE-436D-A10F-CDFF7C2BA348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage.Common", "PhotoStorage.Common\PhotoStorage.Common.csproj", "{7B60358D-798F-4132-87EE-535971C961F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44A0B77-B468-4BC8-B9B5-51E258C56170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44A0B77-B468-4BC8-B9B5-51E258C56170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44A0B77-B468-4BC8-B9B5-51E258C56170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44A0B77-B468-4BC8-B9B5-51E258C56170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC7CDB3-23F3-437C-8A9C-A846BE73D4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC7CDB3-23F3-437C-8A9C-A846BE73D4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC7CDB3-23F3-437C-8A9C-A846BE73D4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC7CDB3-23F3-437C-8A9C-A846BE73D4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1EC249-65DE-436D-A10F-CDFF7C2BA348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1EC249-65DE-436D-A10F-CDFF7C2BA348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1EC249-65DE-436D-A10F-CDFF7C2BA348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1EC249-65DE-436D-A10F-CDFF7C2BA348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B60358D-798F-4132-87EE-535971C961F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B60358D-798F-4132-87EE-535971C961F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B60358D-798F-4132-87EE-535971C961F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B60358D-798F-4132-87EE-535971C961F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {269633CC-5D89-4D3B-93A9-2D5CF5CE0674}
+	EndGlobalSection
+EndGlobal
